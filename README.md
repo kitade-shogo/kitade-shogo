@@ -1,16 +1,15 @@
 ## 🎫 About Kitade
 Hi, I'm an engineer newbie. 👶
 
+### statics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitade-shogo&theme=react)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kitade-shogo&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kitade-shogo&theme=react)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kitade-shogo&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kitade-shogo&theme=react&utcOffset=8)
+
+
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,js,ts,react,ruby,rails,tailwind,git,github,figma" />
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🙌 I’m looking for help with [grow-files](https://github.com/tsuki-lab/grow-files) and [microcms-filter-query](https://github.com/tsuki-lab/microcms-filter-query)
--->
