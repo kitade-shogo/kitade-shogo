@@ -1,5 +1,5 @@
-## 🌕 About Kitade
-Hi, I'm an illustrator and JavaScript engineer. 🤝
+## 🎫 About Kitade
+Hi, I'm an engineer newbie. 👶
 
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,js,ts,react,ruby,rails,tailwind,git,github,figma" />
