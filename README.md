@@ -12,4 +12,4 @@ Hi, I'm an engineer newbie. 👶
 
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,js,ts,react,ruby,rails,tailwind,git,github,figma,docker,RSpec" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,js,ts,react,ruby,rails,tailwind,git,github,figma,docker,rspec" />
