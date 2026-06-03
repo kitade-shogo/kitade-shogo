@@ -1,8 +1,12 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&height=60&lines=Hi+there+%F0%9F%91%8B+I'm+Kitade;Backend+%26+Infra+Engineer;Go+%C2%B7+Kubernetes+%C2%B7+Terraform;Into+distributed+%26+low-level+systems)](https://git.io/typing-svg)
+
+</div>
+
 ## 🎫 About Kitade
 
 ![Profile views](https://komarev.com/ghpvc/?username=kitade-shogo&label=Profile%20views&color=0e75b6&style=flat)
-
-Hi, I'm an engineer newbie. 👶
 
 ### statics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kitade-shogo&theme=react)
