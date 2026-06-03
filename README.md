@@ -18,9 +18,7 @@
 ![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kitade-shogo&theme=react&utcOffset=8)
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=html,css,sass,js,ts,bun,nodejs,go,rust,react,nextjs,vite,threejs,tailwind,graphql,ruby,rails,docker,kubernetes,terraform,githubactions,aws,gcp,bash,postgres,redis,git,github,figma" />
-
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white) <sub>(Valkey は Redis アイコンで代用)</sub>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=11&i=js,ts,bun,nodejs,go,rust,react,nextjs,vite,threejs,graphql,ruby,rails,docker,kubernetes,terraform,githubactions,aws,gcp,bash,postgres,redis" />
 
 ### 💼 Experience
 - **Backend / Infra**: Go による分散バックエンド、Terraform (HCL) でのインフラ管理、Kubernetes (Argo Workflows) での運用
