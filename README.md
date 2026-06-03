@@ -4,13 +4,7 @@
 
 </div>
 
-## 🎫 About Kitade
-
-![Profile views](https://komarev.com/ghpvc/?username=kitade-shogo&label=Profile%20views&color=58a6ff&style=for-the-badge&abbreviated=true)
-
----
-
-### 📊 Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -26,21 +20,15 @@
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kitade-shogo&theme=react)
 ![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kitade-shogo&theme=react&utcOffset=8)
 
----
-
-### 🌱 my skills
+## 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=11&i=js,ts,bun,nodejs,go,rust,react,nextjs,vite,threejs,graphql,ruby,rails,docker,kubernetes,terraform,githubactions,aws,gcp,bash,postgres,redis" />
 
----
-
-### 💼 Experience
+## 💼 Experience
 - **Backend / Infra**: Go による分散バックエンド、Terraform (HCL) でのインフラ管理、Kubernetes (Argo Workflows) での運用
 - **Frontend / Full-stack**: TypeScript / Next.js 15 / React 19 / PostgreSQL でのフルスタックWeb開発、管理ダッシュボード構築
 - **SDK / Web**: JavaScript (WebGL / three.js 系) での Web SDK 開発
 
----
-
-### 📚 Currently Learning
+## 📚 Currently Learning
 - Go (CodeCrafters で低レイヤ系の実装練習)
 - TypeScript の型システム
 - アルゴリズム・データ構造
