@@ -1,5 +1,7 @@
 ## 🎫 About Kitade
 
+![Profile views](https://komarev.com/ghpvc/?username=kitade-shogo&label=Profile%20views&color=0e75b6&style=flat)
+
 Hi, I'm an engineer newbie. 👶
 
 ### statics
