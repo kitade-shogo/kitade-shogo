@@ -24,11 +24,11 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=11&i=js,ts,bun,nodejs,go,rust,react,nextjs,vite,threejs,graphql,ruby,rails,docker,kubernetes,terraform,githubactions,aws,gcp,bash,postgres,redis" />
 
 ## 💼 Experience
-- **Backend / Infra**: Go による分散バックエンド、Terraform (HCL) でのインフラ管理、Kubernetes (Argo Workflows) での運用
-- **Frontend / Full-stack**: TypeScript / Next.js 15 / React 19 / PostgreSQL でのフルスタックWeb開発、管理ダッシュボード構築
-- **SDK / Web**: JavaScript (WebGL / three.js 系) での Web SDK 開発
+- **Backend / Infra**: Distributed backend services in Go, infrastructure as code with Terraform (HCL), and operations on Kubernetes (Argo Workflows)
+- **Frontend / Full-stack**: Full-stack web apps with TypeScript / Next.js 15 / React 19 / Hono / Drizzle / PostgreSQL, including admin dashboards
+- **SDK / Web**: Web SDK development in JavaScript (WebGL / three.js)
 
 ## 📚 Currently Learning
-- Go (CodeCrafters で低レイヤ系の実装練習)
-- TypeScript の型システム
-- アルゴリズム・データ構造
+- Go — low-level systems practice on CodeCrafters
+- TypeScript's type system
+- Algorithms & data structures
