@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there+%F0%9F%91%8B+I'm+Kitade;Backend+%26+Infra+Engineer;Go+%C2%B7+Kubernetes+%C2%B7+Terraform;Into+distributed+%26+low-level+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&letterSpacing=1px&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=180&lines=Hi+there+%F0%9F%91%8B+I'm+Kitade;Backend+%26+Infra+Engineer;Go+%C2%B7+Kubernetes+%C2%B7+Terraform;Into+distributed+%26+low-level+systems)](https://git.io/typing-svg)
 
 </div>
 
